@@ -1,0 +1,3 @@
+[submodule "SubRep1"]
+	path = SubRep1
+	url = https://github.com/osmarbrune/SubRep1.git
