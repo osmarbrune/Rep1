@@ -1,6 +1,5 @@
 Line 1
-Line 2b
-Line 3a
-Line 4bbbb
-Line 4.5b
+Line 2
+Line 3
+Line 4
 Line 5
