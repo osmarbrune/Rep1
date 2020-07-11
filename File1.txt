@@ -3,7 +3,7 @@ Line 2aabbrr changed at both places
 Line 3 here
 
 Line 5 changed (previous line 4 was removed)
-Line 6 CHANGED ON REMOTE
+Line 6 CHANGED ON REMOTE + LOCAL
 Line 7.5 added locally, 7 removed both places
 Line 8 added
 
