@@ -1,9 +1,9 @@
 Line 1.5 added on remote, and previous line 1 removed in remote
 Line 2aabbrr changed on remote
-Line 3
-Line 5 changed (previous line 4 was removed)
+Line 5 changed (previous line 4 and 3 were removed)
 Line 6
-Line 7a
+Line 7a changed remote
+Line 7.1 inserted remote
 Line 7.5 added locally
 Line 8 added
 
