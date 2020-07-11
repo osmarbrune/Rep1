@@ -1,5 +1,5 @@
-Line 1a
-Line 2aabbrr
+Line 1.5 added on remote, and previous line 1 removed in remote
+Line 2aabbrr changed on remote
 Line 3
 Line 4xy
 Line 5
